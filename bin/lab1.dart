@@ -1,5 +1,8 @@
-import 'package:lab1/lab1.dart' as lab1;
 
 void main(List<String> arguments) {
-  print('Hello world: ${lab1.calculate()}!');
+  
+int num1=10;
+int num2=5;
+print (num1+num2);
+  
 }
